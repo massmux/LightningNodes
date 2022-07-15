@@ -6,18 +6,19 @@ Si tratta di un gruppo telegram, assistito da CheeseRobot nel quale si possono p
 
 ### Comandi di base
 
-/node [public key] - ottieni info su un nodo
-/claim - rivendica un nodo
-/unclaim - togli rivendicazione su un nodo
-/help - cheeserobot help
+- /node [public key] - ottieni info su un nodo
+- /claim - rivendica un nodo
+- /unclaim - togli rivendicazione su un nodo
+- /help - cheeserobot help
 
 ### Pubblicazione proprio nodo
 
 inviare messaggio al gruppo con questa sintassi
 
+```
 #node
 [public key]
-
+```
 
 ### Pubblicazione di un ring of fire
 
@@ -25,10 +26,12 @@ inviare messaggio al gruppo con questa sintassi
 2) se necessario autenticare il proprio nodo con la firma
 3) creare lo swap privato e pubblicare il link nel gruppo cosi
 
+```
 #swap #open
 triangle
 [PIN]
 [link]
+```
 
 il link è qualcosa del tipo: https://lightningnetwork.plus/swaps/10204 pin:512ebd838c
 
