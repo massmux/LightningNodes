@@ -29,8 +29,7 @@ inviare messaggio al gruppo con questa sintassi
 ```
 #swap #open
 triangle
-[PIN]
-[link]
+[link comprensivo di pin]
 ```
 
 il link è qualcosa del tipo: https://lightningnetwork.plus/swaps/10204 pin:512ebd838c
